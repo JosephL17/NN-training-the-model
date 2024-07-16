@@ -12,3 +12,5 @@ In this exercise you'll utilize the [machine_failure.csv](./machine_failure.csv)
 - Build your Learning Model with PyTorch `nn.Module`
 - Build DataSets and DataLoaders for training and testing
 - Train and Evaluate your model
+
+> You can checkout the original [data.csv](https://www.kaggle.com/datasets/umerrtx/machine-failure-prediction-using-sensor-data)
